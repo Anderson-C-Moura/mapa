@@ -1,7 +1,7 @@
 
 Crie um projeto Java:
 
-![Captura de tela 2024-06-30 154547](https://github.com/Anderson-C-Moura/mapa/assets/116690418/7869f48d-79b5-4861-8a44-47be6ae59733)
+![image](https://github.com/Anderson-C-Moura/mapa/assets/116690418/c6ac01af-98f7-4c2f-aad8-602fe06a2fc8)
 
 Uso do Git e Envio para o Repositório
 
